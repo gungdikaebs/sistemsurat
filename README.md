@@ -52,4 +52,4 @@ _Below is an example of how you can instruct your audience on installing and set
 
 - [PHP](https://www.php.net/downloads.php)
 - [MySql](https://www.mysql.com/)
-- [Tailwind](https://tailwindcss.com/)
+- [Tailwind CSS](https://tailwindcss.com/)

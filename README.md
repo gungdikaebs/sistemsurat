@@ -8,8 +8,6 @@
 
 </div>
 
- ## About The Project
-
 ![Product Screenshot](https://i.imgur.com/ZiMihIf.png)
 
 Sistem Manajemen Surat adalah sebuah aplikasi berbasis web yang dirancang untuk mengelola surat masuk dan surat keluar dalam sebuah organisasi. Sistem ini memungkinkan pengguna untuk melakukan berbagai operasi seperti menambah, menghapus, dan memperbarui surat, serta mengelola data pengguna yang memiliki akses ke sistem ini. Aplikasi ini juga dilengkapi dengan fitur otentikasi dan otorisasi pengguna untuk memastikan keamanan dan integritas data.

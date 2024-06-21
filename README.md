@@ -15,10 +15,7 @@ Sistem Manajemen Surat adalah sebuah aplikasi berbasis web yang dirancang untuk 
 <b> Fitur - fitur yang tersedia </b>
 - Manajemen Surat Masuk
 - Manajemen Surat Keluar
-- Otentikasi dan Otorisasi Pengguna
 - Manajemen Pengguna
-- Divisi Pengguna
-- Pengamanan Kata Sandi
  ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._

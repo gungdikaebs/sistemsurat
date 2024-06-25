@@ -16,7 +16,10 @@ Sistem Manajemen Surat adalah sebuah aplikasi berbasis web yang dirancang untuk 
 - Manajemen Surat Masuk
 - Manajemen Surat Keluar
 - Manajemen Pengguna
+
  ### Installation
+
+Cara Installasi
 
 1. Clone the repo
    ```sh
@@ -24,7 +27,7 @@ Sistem Manajemen Surat adalah sebuah aplikasi berbasis web yang dirancang untuk 
    ```
 2. Import Database
 - <i> Buka localhost/phpmyadmin </i>
-- <i> Buat database dengan nama ```sistemsurat```
+- <i> Buat database dengan nama ```sistemsurat``` </i>
 - <i> Lalu import file yang ada dalam ```database/sistemsurat.sql ```</i>
    
 3. Running Project
